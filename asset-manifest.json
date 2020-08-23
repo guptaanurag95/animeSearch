@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/animeSearch/static/js/main.85a258d9.chunk.js",
+    "main.js.map": "/animeSearch/static/js/main.85a258d9.chunk.js.map",
+    "runtime-main.js": "/animeSearch/static/js/runtime-main.94b4d285.js",
+    "runtime-main.js.map": "/animeSearch/static/js/runtime-main.94b4d285.js.map",
+    "static/js/2.95cd62c7.chunk.js": "/animeSearch/static/js/2.95cd62c7.chunk.js",
+    "static/js/2.95cd62c7.chunk.js.map": "/animeSearch/static/js/2.95cd62c7.chunk.js.map",
+    "index.html": "/animeSearch/index.html",
+    "precache-manifest.039964989ec1fffc3ddea74c655deb89.js": "/animeSearch/precache-manifest.039964989ec1fffc3ddea74c655deb89.js",
+    "service-worker.js": "/animeSearch/service-worker.js",
+    "static/js/2.95cd62c7.chunk.js.LICENSE.txt": "/animeSearch/static/js/2.95cd62c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94b4d285.js",
+    "static/js/2.95cd62c7.chunk.js",
+    "static/js/main.85a258d9.chunk.js"
+  ]
+}
